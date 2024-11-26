@@ -1980,6 +1980,14 @@ body {
 }
 
 /* Footer */
+.footer {
+  background-color: #4fc3a1;
+  color: #fff;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 
 .footer .container {
   width: 90%;
@@ -1996,5 +2004,5 @@ body {
 }
 
 .footer .social-media p i {
-  margin-right: 10px;
+  margin-right: 5px;
 }
